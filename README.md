@@ -112,13 +112,13 @@ That's why I like to make things that make a difference.
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
-```text
+<!-- ```text
 ReactJS     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
 NodeJs         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
 TypeScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
+``` -->
 <!--END_SECTION:waka--> 
 
 &nbsp;&nbsp;
@@ -126,7 +126,10 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
  </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thompsonsolomon&theme=github-compact)
+ <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thompsonsolomon&theme=github-compact) -->
+
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thompsonsolomon&theme=github-compact)
+
 
  <br/>
  
