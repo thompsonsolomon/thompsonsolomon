@@ -25,7 +25,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Physical And Applied Mathematics Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/SmartDevforge/SmartDev) platform
+- 🔭 I’m currently working on [Teefey](https://github.com/SmartDevforge/teefy) platform
 - 👨‍🏫 I'm the **Community Leader** at [SmartDev Forge](https://smartdevforge.com/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
@@ -107,8 +107,6 @@ That's why I like to make things that make a difference.
 
 ## 📊 Stats
 
-## 📊 Stats
-
 [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JULY 22 2021</b>
 
 📊 <b>This Week I Spent My Time On</b>
@@ -116,24 +114,15 @@ That's why I like to make things that make a difference.
 <!--START_SECTION:waka-->
 ```text
 ReactJS     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-NOdeJs         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
+NodeJs         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
 TypeScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka--> 
 
-<details> 
-<summary>&nbsp;&nbsp;
-<b>🔥 GitHub Contributions Streak</b>
-</summary>
- <br/>
- <p> <img src="https://activity-graph.herokuapp.com/graph?username=thompsonsolomon&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" /> 
- </p>
-
-</details> <details> 
-<summary>&nbsp;&nbsp;
-<b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b></summary> <br/>
+&nbsp;&nbsp;
+<b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b><br/>
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
  </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
@@ -141,6 +130,5 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
  <br/>
  
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages <br/> ⚠ <b>Note:</b> Top languages only reflect public code and not actual experience or skill level. <p align="center"> <a href="https://git.io/streak-stats" title="Go to Source"> <img alt="thompsonsolomon's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thompsonsolomon&theme=react&border=61dafb" height="192px"/> </a> </p> </details>
-  
+  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages <br/> ⚠ <b>Note:</b> Top languages only reflect public code and not actual experience or skill level.
 
