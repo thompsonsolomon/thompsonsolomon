@@ -112,13 +112,7 @@ That's why I like to make things that make a difference.
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
-<!-- ```text
-ReactJS     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-NodeJs         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-TypeScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-``` -->
+
 <!--END_SECTION:waka--> 
 
 &nbsp;&nbsp;
