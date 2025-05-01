@@ -120,23 +120,10 @@ That's why I like to make things that make a difference.
 &nbsp;&nbsp;
 
 <b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b><br/>
- <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
+ <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=vue-dark" height="172px"/> 
+   <img  width="450em"   src="https://streak-stats.demolab.com?user=thompsonsolomon&theme=vue-dark" alt="" />  
  </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
-
-<br />
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thompsonsolomon&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thompsonsolomon&theme=algolia) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=thompsonsolomon&theme=vue-dark" alt="" />                                           |  <img width="450em" align="center" alt="taiwo Github stats"  src="https://github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=vue-dark" />   |
-
-<br/>
-
- <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonsolomon&show_icons=true&locale=en&layout=compact"
-        alt="thompsonsolomon"
-      />
-
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thompsonsolomon&theme=github-compact)
  <br/>
  
