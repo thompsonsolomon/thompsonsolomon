@@ -120,11 +120,22 @@ That's why I like to make things that make a difference.
 &nbsp;&nbsp;
 
 <b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b><br/>
+<summary>
+<details>
+
+
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img width="450em" align="center" alt=" Github stats"  src="https://github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=vue-dark" height="172px"/> 
    <img  width="450em"   src="https://streak-stats.demolab.com?user=thompsonsolomon&theme=vue-dark" alt="" />  
- </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
+ </a>
+ 
+  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
+
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thompsonsolomon&theme=github-compact)
+
+</details>
+</summary>
+
  <br/>
  
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages <br/> ⚠ <b>Note:</b> Top languages only reflect public code and not actual experience or skill level.
