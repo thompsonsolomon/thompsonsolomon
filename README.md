@@ -105,7 +105,12 @@ That's why I like to make things that make a difference.
 
 ---
 
-## 📊 Stats
+## 
+<h1>
+<b>
+📊 Stats
+</b>
+ </h1>
 
 [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JULY 22 2021</b>
 
@@ -113,10 +118,24 @@ That's why I like to make things that make a difference.
 
 <img alt="thompsonsolomon's Top Languages" src="https://wakatime.com/share/@56c02b76-a085-4b19-8167-ca79ac1847c7/6cda7b81-167d-49a4-9266-8ba2447be701.svg" height="172px"/>
 &nbsp;&nbsp;
+
 <b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b><br/>
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
  </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
+
+<br />
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thompsonsolomon&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thompsonsolomon&theme=algolia) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=thompsonsolomon&theme=vue-dark" alt="" />                                           |  <img width="450em" align="center" alt="taiwo Github stats"  src="https://github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=vue-dark" />   |
+
+<br/>
+
+ <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=thompsonsolomon&show_icons=true&locale=en&layout=compact"
+        alt="thompsonsolomon"
+      />
 
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thompsonsolomon&theme=github-compact)
  <br/>
