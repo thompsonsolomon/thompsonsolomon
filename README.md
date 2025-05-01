@@ -11,7 +11,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=thompsonsolomon.thompsonsolomon)
 
 I’m a full-stack developer and tech community leader passionate about building solutions that make a difference. I love programming, mentoring, and solving real-world problems through technology.
 
@@ -117,11 +117,8 @@ That's why I like to make things that make a difference.
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
  </a> <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> 
  <img alt="thompsonsolomon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thompsonsolomon&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/> </a> 
- <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=thompsonsolomon&theme=github-compact) -->
 
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thompsonsolomon&theme=github-compact)
-
-
  <br/>
  
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages <br/> ⚠ <b>Note:</b> Top languages only reflect public code and not actual experience or skill level.
