@@ -111,10 +111,7 @@ That's why I like to make things that make a difference.
 
 📊 <b>This Week I Spent My Time On</b>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka--> 
-
+<img alt="thompsonsolomon's Top Languages" src="https://wakatime.com/share/@56c02b76-a085-4b19-8167-ca79ac1847c7/6cda7b81-167d-49a4-9266-8ba2447be701.svg" height="172px"/>
 &nbsp;&nbsp;
 <b>😺 My Github Stats, 😻 Current Streak, and 😸 Most Used Languages</b><br/>
  <a href="https://github.com/thompsonsolomon/github-readme-stats" title="Go to Source"> <img alt="thompsonsolomon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=thompsonsolomon&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/> 
