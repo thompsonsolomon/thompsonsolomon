@@ -11,7 +11,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=thompsonsolomon.thompsonsolomon)
+## Glad to see you here! &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thompsonsolomon)
 
 I’m a full-stack developer and tech community leader passionate about building solutions that make a difference. I love programming, mentoring, and solving real-world problems through technology.
 
